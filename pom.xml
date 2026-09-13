@@ -34,9 +34,9 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.5.0</version>
                 <configuration>
-                    <jvmArgs>
-                        <jvmArg>--enable-preview</jvmArg>
-                    </jvmArgs>
+                    <!--<jvmArgs>
+                        <jvmArg>&#45;&#45;enable-preview</jvmArg>
+                    </jvmArgs>-->
                 </configuration>
             </plugin>
         </plugins>
